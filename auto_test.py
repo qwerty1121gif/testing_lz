@@ -1,5 +1,5 @@
-from auto_test_func import heand
-import unittest
+from auto_test_func import heand # импорт функции heand 
+import unittest # Импорт модуля unittest
 
 class Test_func(unittest.TestCase):
     def test_pos(self):

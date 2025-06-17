@@ -1,4 +1,4 @@
-import math
+import math # Импорт модуля math
 
 def func(x):
     return math.log(math.log(x))
